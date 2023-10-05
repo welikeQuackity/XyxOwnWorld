@@ -14,6 +14,9 @@ print ( первое число * второе число )
 #задача про калькулятор 
 
 
+```
 x = int(input())
 sep='***'
-print ((x, x*2, x*3, x*4, x*5 sep))
+print (x,sep, x*2,sep, x*3,sep, x*4,sep, x*5)
+
+```
