@@ -16,4 +16,4 @@ print ( первое число * второе число )
 
 x = int(input())
 sep='***'
-print ((x, x*2, x*3, x*4, x*5) sep='***
+print ((x, x*2, x*3, x*4, x*5 sep))
